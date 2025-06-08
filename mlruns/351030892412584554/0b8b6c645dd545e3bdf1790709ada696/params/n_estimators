@@ -1,0 +1,8 @@
+0 int
+1   float
+2     hyperopt_param
+3       Literal{n_estimators}
+4       quniform
+5         Literal{10}
+6         Literal{50}
+7         Literal{1}

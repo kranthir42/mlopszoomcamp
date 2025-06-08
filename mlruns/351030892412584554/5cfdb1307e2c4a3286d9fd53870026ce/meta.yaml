@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/351030892412584554/5cfdb1307e2c4a3286d9fd53870026ce/artifacts
+end_time: 1749402970592
+entry_point_name: ''
+experiment_id: '351030892412584554'
+lifecycle_stage: active
+run_id: 5cfdb1307e2c4a3286d9fd53870026ce
+run_name: upset-quail-285
+run_uuid: 5cfdb1307e2c4a3286d9fd53870026ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749402970580
+status: 4
+tags: []
+user_id: codespace

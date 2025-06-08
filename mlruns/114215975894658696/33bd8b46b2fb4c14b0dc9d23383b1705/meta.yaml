@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114215975894658696/33bd8b46b2fb4c14b0dc9d23383b1705/artifacts
+end_time: 1749401830964
+entry_point_name: ''
+experiment_id: '114215975894658696'
+lifecycle_stage: active
+run_id: 33bd8b46b2fb4c14b0dc9d23383b1705
+run_name: marvelous-ram-217
+run_uuid: 33bd8b46b2fb4c14b0dc9d23383b1705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749401823530
+status: 4
+tags: []
+user_id: codespace

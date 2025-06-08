@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/351030892412584554/55199e3588b347789991d306894a7271/artifacts
+end_time: 1749402774357
+entry_point_name: ''
+experiment_id: '351030892412584554'
+lifecycle_stage: active
+run_id: 55199e3588b347789991d306894a7271
+run_name: bright-whale-773
+run_uuid: 55199e3588b347789991d306894a7271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749402774340
+status: 4
+tags: []
+user_id: codespace

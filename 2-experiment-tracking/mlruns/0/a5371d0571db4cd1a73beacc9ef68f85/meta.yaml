@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlopszoomcamp/2-experiment-tracking/mlruns/0/a5371d0571db4cd1a73beacc9ef68f85/artifacts
+end_time: 1749398548423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5371d0571db4cd1a73beacc9ef68f85
+run_name: amazing-moose-896
+run_uuid: a5371d0571db4cd1a73beacc9ef68f85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749398528163
+status: 3
+tags: []
+user_id: codespace

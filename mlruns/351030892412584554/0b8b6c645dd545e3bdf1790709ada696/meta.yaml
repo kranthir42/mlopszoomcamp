@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/351030892412584554/0b8b6c645dd545e3bdf1790709ada696/artifacts
+end_time: 1749402870520
+entry_point_name: ''
+experiment_id: '351030892412584554'
+lifecycle_stage: active
+run_id: 0b8b6c645dd545e3bdf1790709ada696
+run_name: welcoming-smelt-979
+run_uuid: 0b8b6c645dd545e3bdf1790709ada696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749402867729
+status: 4
+tags: []
+user_id: codespace

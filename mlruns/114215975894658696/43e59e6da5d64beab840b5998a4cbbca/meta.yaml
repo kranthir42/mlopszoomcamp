@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114215975894658696/43e59e6da5d64beab840b5998a4cbbca/artifacts
+end_time: 1749404677221
+entry_point_name: ''
+experiment_id: '114215975894658696'
+lifecycle_stage: active
+run_id: 43e59e6da5d64beab840b5998a4cbbca
+run_name: stylish-sponge-913
+run_uuid: 43e59e6da5d64beab840b5998a4cbbca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749404677206
+status: 3
+tags: []
+user_id: codespace

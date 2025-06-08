@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/351030892412584554/5220d2ae35cf4c9eba77a69f362831fe/artifacts
+end_time: 1749403924395
+entry_point_name: ''
+experiment_id: '351030892412584554'
+lifecycle_stage: active
+run_id: 5220d2ae35cf4c9eba77a69f362831fe
+run_name: likeable-conch-371
+run_uuid: 5220d2ae35cf4c9eba77a69f362831fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749403924383
+status: 4
+tags: []
+user_id: codespace

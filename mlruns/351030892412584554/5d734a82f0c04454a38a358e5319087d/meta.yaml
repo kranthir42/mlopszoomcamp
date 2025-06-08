@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/351030892412584554/5d734a82f0c04454a38a358e5319087d/artifacts
+end_time: 1749404069005
+entry_point_name: ''
+experiment_id: '351030892412584554'
+lifecycle_stage: active
+run_id: 5d734a82f0c04454a38a358e5319087d
+run_name: peaceful-flea-388
+run_uuid: 5d734a82f0c04454a38a358e5319087d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749404067521
+status: 4
+tags: []
+user_id: codespace
