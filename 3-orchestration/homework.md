@@ -105,7 +105,7 @@ Find the logged model, and find MLModel file. What's the size of the model? (`mo
 * 4,534
 * 1,534
 
-ans: `9,534`
+ans: `4,534`
 
 ## Submit the results
 
